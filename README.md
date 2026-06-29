@@ -2,6 +2,8 @@
 This project demonstrates how to design a **Star Schema data model** and build an interactive **Production &amp; Sales Dashboard** in Power BI.   The dashboard provides insights into **Revenue, Profit, Units Sold, Stock on Hand, and Store Count**, using **DAX time intelligence functions** for advanced KPI analysis.
 # Power BI Production & Sales Dashboard
 
+<img width="1119" height="472" alt="image" src="https://github.com/user-attachments/assets/de46acf7-f6dd-435a-931b-b4fee6d82f97" />
+
 ## Objective
 This project demonstrates how to design a **Star Schema data model** and build an interactive **Production & Sales Dashboard** in Power BI.  
 The dashboard provides insights into **Revenue, Profit, Units Sold, Stock on Hand, and Store Count**, using **DAX time intelligence functions** for advanced KPI analysis.
