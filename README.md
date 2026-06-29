@@ -19,7 +19,9 @@ The project uses a **Star Schema** with the following tables:
 - **Stores** → Store attributes (City, Location, Open Date)  
 - **Inventory** → Stock on hand per product/store  
 
-![Star Schema](data_model/star_schema.png)
+![Star Schema]
+
+<img width="971" height="486" alt="image" src="https://github.com/user-attachments/assets/7cc7d2b6-f955-4ce9-82b7-c982dabb7484" />
 
 ---
 
@@ -73,7 +75,7 @@ Code
  ┣ 📂 pbix_file
  ┃ ┗ ProductionDashboard.pbix
  ┣ 📄 README.md
- ┗ 📄 LICENSE
+
 💡 Skills Demonstrated
 Data Modeling (Star Schema design)
 
